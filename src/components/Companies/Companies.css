@@ -1,0 +1,12 @@
+.companies-container {
+  justify-content: space-around;
+  gap: 1rem;
+}
+.companies-container > img {
+  width: 9rem;
+}
+hr {
+  position: relative;
+  left: 7.5rem;
+  width: 85%;
+}
